@@ -11,4 +11,5 @@ The dashboard provides:
 ## Screenshots  
 
 ![Income Dashboard](income.png)  
-
+![Savings Dashboard](savings.png)  
+![Expense Dashboard](Expense.png)  
